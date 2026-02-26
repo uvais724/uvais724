@@ -9,17 +9,20 @@ I enjoy designing distributed architectures and developing product-focused platf
 
 ### 🔐 Decrypt Me
 Cryptogram puzzle game that turns messages into interactive word-guessing challenges — playable solo or shareable with others.
+
 **Tech stack:** React, JavaScript, Supabase (Auth+PostgreSQL), CRON Scheduler, Vercel (Deployment, Monitoring, Analytics), Serverless Function, GenAI (Gemini).
 
 🔗 Live Demo: [Decrypt Me](https://decrypt-me.vercel.app/)
 
 ### ⚔️ Versus Dev
 Platform to search, evaluate, and compare JavaScript libraries with structured decision-making insights for developers.
+
 **Tech stack:** VueJS, Typescript, NuxtJS, GenAI (Gemini), Vercel (Deployment, Monitoring, Analytics).
 🔗 Live Demo: [Versus Dev](https://doc-pilot-ai-ten.vercel.app/)
 
 ### 🔗 Blinks
 Application for saving, organizing, and sharing social media links through structured collections.
+
 **Tech stack: VueJS, Typescript, NuxtJS, MongoDB, Vercel (Deployment, Monitoring, Analytics).**
 🔗 Live Demo: [Blinks](https://blinks-tau.vercel.app/)
 
