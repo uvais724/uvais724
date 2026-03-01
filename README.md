@@ -5,6 +5,62 @@ I enjoy designing distributed architectures and developing product-focused platf
 
 ---
 
+## 🧠 Skills
+
+### 💻 Backend
+- Java  
+- Spring Boot  
+- REST APIs  
+- Kafka  
+- Elasticsearch  
+- SQL  
+- Drools  
+- Node.js  
+- Data Pipelines  
+- High-volume Processing  
+- Distributed Systems  
+
+### 🎨 Frontend
+- JavaScript  
+- TypeScript  
+- Angular  
+- React  
+- Vue.js  
+- Nuxt.js  
+- HTML  
+- CSS  
+- TailwindCSS  
+- Responsive Design  
+
+### 🗄 Databases & Search
+- PostgreSQL  
+- SQL Server  
+- MongoDB  
+- Elasticsearch  
+
+### 🧪 Testing
+- JUnit  
+- Mockito  
+- Jest  
+- Playwright  
+- Test-Driven Development (TDD)  
+
+### 🚀 DevOps & Cloud
+- Docker  
+- AWS  
+- Jenkins  
+- CI/CD  
+- Gradle  
+- Git  
+- Linux  
+
+### 🏗 Architecture & Engineering Focus
+- Microservices  
+- Search-driven platforms  
+- Role-Based Access Control (RBAC)  
+- Cross-system integrations  
+- Secure enterprise workflows  
+
 ## 🚀 Projects
 
 ### 🔐 Decrypt Me
