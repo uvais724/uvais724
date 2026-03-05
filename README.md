@@ -97,8 +97,7 @@ AI-powered developer tools
 ---
 
 ## 👯 Open To
-Remote global opportunities  
-Middle East product & enterprise roles  
+Remote global opportunities.   
 Backend / Full Stack engineering positions  
 Email: uvais724@gmail.com
 
